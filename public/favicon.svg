@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#E8F5E9" stroke="#2E7D32" stroke-width="4"/>
+  <text x="50" y="40" font-size="14" font-family="Arial" font-weight="bold" fill="#2E7D32" text-anchor="middle">SCRAP</text>
+  <text x="50" y="55" font-size="14" font-family="Arial" font-weight="bold" fill="#6D4C41" text-anchor="middle">CYCLE</text>
+  <text x="50" y="80" font-size="28" text-anchor="middle">♻</text>
+</svg>
